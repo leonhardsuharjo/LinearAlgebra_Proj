@@ -1,6 +1,7 @@
 Project structure = 
-	•	A Jupyter notebook:  01_linear_algebra_basics.ipynb  (rank, null space, change of basis).
+	•	A Jupyter notebook:  01_linear_algebra_basics.ipynb  (rank, null space, change of basis). 
 	•	A notebook:  02_regression_from_scratch.ipynb  (least squares line, correlation).
 	•	A notebook:  03_pca_from_scratch.ipynb  (standardize → covariance → eigenvectors → projection).
 	•	A notebook:  04_probability_simulations.ipynb  (Bayes + total probability via simulation).
 	•	A small Python package folder  mda_toolbox/  with functions you can import.
+
